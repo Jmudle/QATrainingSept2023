@@ -6,7 +6,7 @@ Added new lines of text for merge conflict with second branch
 Added new lines of text for merge conflict with Third Branch
 Added new lines of text for Merge conflict on third branch github
 Added new lines of text for Merge conflict on github second branch
-
+Added new lines of text to revert back and forward
 
 
 
