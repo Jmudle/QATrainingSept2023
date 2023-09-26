@@ -3,3 +3,5 @@ Added new lines of text for branching training on second branch
 Added more lines of text for merge training on second branch
 Added new lines of text for Merge training on Third branch
 Added new lines of text for Merge conflict on third branch github
+Added new lines of text for Merge conflict on github second branch
+
